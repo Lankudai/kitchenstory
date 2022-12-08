@@ -30,3 +30,9 @@ A functionality to add or remove food items
 - VS Code
 - node js
 
+# Core Concept used in the Project:
+
+This Project used Bootstrap, java typescript,angular CLI and node js.
+
+# ScreenShot:
+
